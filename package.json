@@ -13,18 +13,18 @@
     "debug": "^4.1.1",
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
-    "express-status-monitor": "^1.2.6",
-    "hbs": "^4.0.5",
-    "helmet": "^3.21.1",
+    "express-status-monitor": "^1.2.7",
+    "hbs": "^4.0.6",
+    "helmet": "^3.21.2",
     "morgan": "^1.9.1",
     "node-toobusy": "^0.6.3",
     "request": "^2.88.0",
-    "rotating-file-stream": "^1.4.4",
+    "rotating-file-stream": "^2.0.0",
     "serve-favicon": "^2.5.0",
     "socket.io": "^2.3.0",
     "winston": "^3.2.1"
   },
   "devDependencies": {
-    "nodemon": "^1.19.3"
+    "nodemon": "^2.0.2"
   }
 }
